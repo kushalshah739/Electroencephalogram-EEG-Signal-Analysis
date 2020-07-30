@@ -1,5 +1,5 @@
 MAIN CODE
-%% Retrieving Data
+%% Retrieving Data 
 load('EEG_sub1.mat');
 O1sub1 = EEG(8).ch;
 O2sub1 = EEG(12).ch;
